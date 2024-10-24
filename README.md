@@ -1,6 +1,6 @@
 ---
 icon: hand-wave
-cover: .gitbook/assets/ByteAPI_Banner.png
+cover: .gitbook/assets/byte_docs_baner.png
 coverY: 0
 layout:
   cover:
